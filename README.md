@@ -87,6 +87,7 @@ A classification model was developed to predict employee churn.
 salifort_motors/
 │── data/ # Dataset
 │── notebooks/ # Analysis & modeling
+│── pickle_models/ # pickled models to reduce the run-time
 │── README.md
 
 
